@@ -1,6 +1,6 @@
-#API End Points
+# API End Points
 
-# User Manual
+## User Manual
 
 - Create a Database as Per Your Choice
 - Run The Following Command to Get Fake Data: ***php artisan migrate:fresh --seed***
